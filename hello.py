@@ -19,6 +19,8 @@ def contact():
 
 
 
-
 # please make FLASK_ENV on using this commande on cmd
 # export FLASK_ENV=development
+
+
+# https://flask.palletsprojects.com/en/2.1.x/
